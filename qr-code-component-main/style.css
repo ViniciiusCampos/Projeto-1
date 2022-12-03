@@ -13,6 +13,7 @@ html {
 body {
     width: 360px;
     height: 550px;
+    
     background-color: hsl(0, 0%, 100%);
     margin: 75px;
     border-radius: 25px;
